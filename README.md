@@ -3,3 +3,4 @@
 - 👀 I’m interested in Discord & Coding
 - 🌱 I’m currently learning more PHP
 - 📫 Contact me on Discord MrNover#0001
+- Check out [mrnover.com](https://mrnover.com)
