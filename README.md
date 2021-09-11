@@ -5,4 +5,5 @@
 - 📫 Contact me on Discord MrNover#0001
 - Check out [mrnover.com](https://mrnover.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnover&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnovergithub&show_icons=true) 
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrnovergithub) 
