@@ -1,7 +1,7 @@
 # Welcome to my GitHub Page
 - 👋 Hi, I’m EliteNover
 - 👀 I’m interested in Discord & Coding
-- 🌱 I’m currently learning more PHP
+- 🌱 I know PHP, HTML, CSS and JavaScript
 - 🖥️ Head Staff @ [vCodes](https://github.com/vcodes-xyz/vcodes)!
 - 📫 Contact me on Discord EliteNover#5939
 
